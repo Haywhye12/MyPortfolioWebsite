@@ -7,7 +7,7 @@ const Experience = () => {
     {
       title: "Senior Full Stack Developer",
       company: "Texhbox Lab",
-      period: "2023 - Present",
+      period: "2025 - Present",
       type: "Remote",
       description: [
         "Develop and maintain full-stack web applications using React, TypeScript, and Next.js",
@@ -20,7 +20,7 @@ const Experience = () => {
     {
       title: "Junior Developer Intern",
       company: "Syllabux",
-      period: "2022 - 2023",
+      period: "2024 - 2025",
       type: "Internship",
       description: [
         "Assisted in development of front-end components using HTML, CSS, JavaScript, and jQuery",
