@@ -3,6 +3,7 @@ import React from 'react';
 import './Projects.css';
 import aiPromptImage from '../assets/AI-Prompt-to-Image-Converter.png';
 import heroBg from '../assets/hero-section-bk.png';
+import estateAppImage from '../assets/estate-pic.png';
 
 const Projects = () => {
   const projects = [
@@ -18,7 +19,7 @@ const Projects = () => {
       title: "Estate Community Management App",
       description: "Comprehensive platform for residential estate management with real-time notifications, announcement boards, and issue tracking.",
       technologies: ["React.js", "TypeScript", "Firebase", "Node.js", "Express.js", "Real-time Database"],
-      image: "/api/placeholder/400/250",
+      image: estateAppImage,
       liveLink: "#",
       githubLink: "#"
     },
