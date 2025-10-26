@@ -21,15 +21,15 @@ const Projects = () => {
       technologies: ["React.js", "TypeScript", "Firebase", "Node.js", "Express.js", "Real-time Database"],
       image: estateAppImage,
       liveLink: "#",
-      githubLink: "#"
+      githubLink: "https://github.com/Haywhye12/Manager"
     },
     {
       title: "Professional Portfolio & Client Websites",
       description: "Multiple responsive and SEO-friendly websites built for clients and personal use, focusing on modern UI/UX principles.",
       technologies: ["HTML5", "CSS3", "JavaScript", "jQuery", "React.js", "Responsive Design"],
       image: heroBg,
-      liveLink: "#",
-      githubLink: "#"
+      liveLink: "https://my-portfolio-website-one-gamma.vercel.app/",
+      githubLink: "https://github.com/Haywhye12/MyPortfolioWebsite"
     }
   ];
 
