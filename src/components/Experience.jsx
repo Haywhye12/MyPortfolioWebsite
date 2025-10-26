@@ -20,7 +20,7 @@ const Experience = () => {
     {
       title: "Junior Developer Intern",
       company: "Syllabux",
-      period: "2024 - 2025",
+      period: "2023 - 2024",
       type: "Internship",
       description: [
         "Assisted in development of front-end components using HTML, CSS, JavaScript, and jQuery",
